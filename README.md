@@ -1,1 +1,1 @@
-# scrimbaChromeExtention
+# scrimbaChromeExtension
